@@ -1,15 +1,15 @@
-<h1>Nft-Web Site Uygulaması</h1>
-Görsel öğeler kullanılıp Nft projelerini çekici hale getirecek son kullanıcı için kolay bir şekilde alışveriş yapabileceği bir web sitesi yaratmak.
+<h1>Nft-Web Site Application</h1>
+To create a website that will make Nft projects attractive by using visual elements and make it easy for the end user to shop.
 
-Uygulamalar oluşturarak ön yüz web geliştirme yeteneğimi pratiklerle desteklemek için oluşturuldu.
+It was created to practice my front-end web development skills by building applications.
 
 
 
-<h1> Kullanılan Teknolojiler </h1>
+<h1> Technologies Used </h1>
 
-HTML5-CSS3 özellikleri kullanılarak responsive tasarım gerçekleştirildi.
+Responsive design was realized using HTML5-CSS3 features.
 
-<h2> Ekran Görüntüsü </h2>
+<h2> Screen</h2>
 
 ![](Nft-Project.gif)
 
