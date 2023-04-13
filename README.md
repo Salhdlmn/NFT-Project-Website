@@ -10,5 +10,6 @@ Uygulamalar oluşturarak ön yüz web geliştirme yeteneğimi pratiklerle destek
 HTML5-CSS3 özellikleri kullanılarak responsive tasarım gerçekleştirildi.
 
 <h2> Ekran Görüntüsü </h2>
+
 ![](Nft-Project.gif)
 
